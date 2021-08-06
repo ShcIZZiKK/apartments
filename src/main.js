@@ -1,7 +1,12 @@
 import Vue from 'vue';
-import App from './App.vue';
+import VueCompositionAPI from '@vue/composition-api';
+import VueSvgInlinePlugin from 'vue-svg-inline-plugin';
+import App from './App';
 import router from './router';
+import './assets/scss/app.scss';
 
+Vue.use(VueCompositionAPI);
+Vue.use(VueSvgInlinePlugin);
 Vue.config.productionTip = false;
 
 new Vue({
