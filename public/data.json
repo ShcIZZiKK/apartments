@@ -1,253 +1,258 @@
 {
-  "apartments": [
-    {
-      "id": 1,
-      "image": "flat.svg",
-      "name": "3-комнатная №104",
-      "square": 13.1,
-      "floor": 1,
-      "room": 1,
-      "price": 6000000
-    },
-    {
-      "id": 2,
-      "image": "flat.svg",
-      "name": "3-комнатная №105",
-      "square": 23.1,
-      "floor": 2,
-      "room": 2,
-      "price": 5000000
-    },
-    {
-      "id": 3,
-      "image": "flat.svg",
-      "name": "3-комнатная №106",
-      "square": 33.1,
-      "floor": 3,
-      "room": 3,
-      "price": 4000000
-    },
-    {
-      "id": 4,
-      "image": "flat.svg",
-      "name": "3-комнатная №107",
-      "square": 43.1,
-      "floor": 4,
-      "room": 4,
-      "price": 3000000
-    },
-    {
-      "id": 5,
-      "image": "flat.svg",
-      "name": "3-комнатная №108",
-      "square": 43.1,
-      "floor": 4,
-      "room": 2,
-      "price": 6200000
-    },
-    {
-      "id": 6,
-      "image": "flat.svg",
-      "name": "3-комнатная №109",
-      "square": 44,
-      "floor": 2,
-      "room": 1,
-      "price": 6700000
-    },
-    {
-      "id": 7,
-      "image": "flat.svg",
-      "name": "3-комнатная №110",
-      "square": 52.1,
-      "floor": 5,
-      "room": 1,
-      "price": 6100000
-    },
-    {
-      "id": 8,
-      "image": "flat.svg",
-      "name": "3-комнатная №111",
-      "square": 63.7,
-      "floor": 7,
-      "room": 3,
-      "price": 5000500
-    },
-    {
-      "id": 9,
-      "image": "flat.svg",
-      "name": "3-комнатная №112",
-      "square": 93.5,
-      "floor": 6,
-      "room": 1,
-      "price": 1500000
-    },
-    {
-      "id": 10,
-      "image": "flat.svg",
-      "name": "3-комнатная №113",
-      "square": 70,
-      "floor": 9,
-      "room": 4,
-      "price": 9000000
-    },
-    {
-      "id": 11,
-      "image": "flat.svg",
-      "name": "3-комнатная №114",
-      "square": 21,
-      "floor": 11,
-      "room": 1,
-      "price": 11000000
-    },
-    {
-      "id": 12,
-      "image": "flat.svg",
-      "name": "3-комнатная №115",
-      "square": 11,
-      "floor": 12,
-      "room": 1,
-      "price": 2200000
-    },
-    {
-      "id": 13,
-      "image": "flat.svg",
-      "name": "3-комнатная №116",
-      "square": 15,
-      "floor": 15,
-      "room": 2,
-      "price": 2340000
-    },
-    {
-      "id": 14,
-      "image": "flat.svg",
-      "name": "3-комнатная №117",
-      "square": 89,
-      "floor": 16,
-      "room": 2,
-      "price": 6780000
-    },
-    {
-      "id": 15,
-      "image": "flat.svg",
-      "name": "3-комнатная №118",
-      "square": 11,
-      "floor": 17,
-      "room": 1,
-      "price": 6002350
-    },
-    {
-      "id": 16,
-      "image": "flat.svg",
-      "name": "3-комнатная №119",
-      "square": 34,
-      "floor": 2,
-      "room": 1,
-      "price": 1000000
-    },
-    {
-      "id": 17,
-      "image": "flat.svg",
-      "name": "3-комнатная №120",
-      "square": 53.1,
-      "floor": 4,
-      "room": 4,
-      "price": 8000000
-    },
-    {
-      "id": 18,
-      "image": "flat.svg",
-      "name": "3-комнатная №121",
-      "square": 123.1,
-      "floor": 6,
-      "room": 1,
-      "price": 5000000
-    },
-    {
-      "id": 19,
-      "image": "flat.svg",
-      "name": "3-комнатная №122",
-      "square": 13.8,
-      "floor": 2,
-      "room": 3,
-      "price": 1000000
-    },
-    {
-      "id": 20,
-      "image": "flat.svg",
-      "name": "3-комнатная №123",
-      "square": 53.1,
-      "floor": 3,
-      "room": 1,
-      "price": 5000000
-    },
-    {
-      "id": 21,
-      "image": "flat.svg",
-      "name": "3-комнатная №124",
-      "square": 33.1,
-      "floor": 3,
-      "room": 2,
-      "price": 6600000
-    },
-    {
-      "id": 22,
-      "image": "flat.svg",
-      "name": "3-комнатная №125",
-      "square": 23.1,
-      "floor": 1,
-      "room": 4,
-      "price": 7000000
-    },
-    {
-      "id": 23,
-      "image": "flat.svg",
-      "name": "3-комнатная №126",
-      "square": 59.1,
-      "floor": 8,
-      "room": 3,
-      "price": 7300000
-    },
-    {
-      "id": 24,
-      "image": "flat.svg",
-      "name": "3-комнатная №127",
-      "square": 85,
-      "floor": 6,
-      "room": 1,
-      "price": 2100000
-    },
-    {
-      "id": 25,
-      "image": "flat.svg",
-      "name": "3-комнатная №128",
-      "square": 77,
-      "floor": 5,
-      "room": 2,
-      "price": 2200000
-    },
-    {
-      "id": 26,
-      "image": "flat.svg",
-      "name": "3-комнатная №129",
-      "square": 67.7,
-      "floor": 5,
-      "room": 3,
-      "price": 1200000
-    },
-    {
-      "id": 27,
-      "image": "flat.svg",
-      "name": "3-комнатная №130",
-      "square": 69.9,
-      "floor": 13,
-      "room": 1,
-      "price": 7500000
-    }
-  ],
-  "qtyRooms": [1, 2, 3, 4],
-  "minPrice": 1000000,
-  "maxPrice": 11000000,
-  "minSquare": 11,
-  "maxSquare": 124,
-  "totalFloors": 17
+	"apartments": [
+		{
+			"id": 1,
+			"image": "flat.svg",
+			"name": "1-комнатная №104",
+			"square": 13.1,
+			"floor": 1,
+			"room": 1,
+			"price": 6000000
+		},
+		{
+			"id": 2,
+			"image": "flat.svg",
+			"name": "2-комнатная №105",
+			"square": 23.1,
+			"floor": 2,
+			"room": 2,
+			"price": 5000000
+		},
+		{
+			"id": 3,
+			"image": "flat.svg",
+			"name": "3-комнатная №106",
+			"square": 33.1,
+			"floor": 3,
+			"room": 3,
+			"price": 4000000
+		},
+		{
+			"id": 4,
+			"image": "flat.svg",
+			"name": "4-комнатная №107",
+			"square": 43.1,
+			"floor": 4,
+			"room": 4,
+			"price": 3000000
+		},
+		{
+			"id": 5,
+			"image": "flat.svg",
+			"name": "2-комнатная №108",
+			"square": 43.1,
+			"floor": 4,
+			"room": 2,
+			"price": 6200000
+		},
+		{
+			"id": 6,
+			"image": "flat.svg",
+			"name": "1-комнатная №109",
+			"square": 44,
+			"floor": 2,
+			"room": 1,
+			"price": 6700000
+		},
+		{
+			"id": 7,
+			"image": "flat.svg",
+			"name": "1-комнатная №110",
+			"square": 52.1,
+			"floor": 5,
+			"room": 1,
+			"price": 6100000
+		},
+		{
+			"id": 8,
+			"image": "flat.svg",
+			"name": "3-комнатная №111",
+			"square": 63.7,
+			"floor": 7,
+			"room": 3,
+			"price": 5000500
+		},
+		{
+			"id": 9,
+			"image": "flat.svg",
+			"name": "1-комнатная №112",
+			"square": 93.5,
+			"floor": 6,
+			"room": 1,
+			"price": 1500000
+		},
+		{
+			"id": 10,
+			"image": "flat.svg",
+			"name": "4-комнатная №113",
+			"square": 70,
+			"floor": 9,
+			"room": 4,
+			"price": 9000000
+		},
+		{
+			"id": 11,
+			"image": "flat.svg",
+			"name": "1-комнатная №114",
+			"square": 21,
+			"floor": 11,
+			"room": 1,
+			"price": 11000000
+		},
+		{
+			"id": 12,
+			"image": "flat.svg",
+			"name": "1-комнатная №115",
+			"square": 11,
+			"floor": 12,
+			"room": 1,
+			"price": 2200000
+		},
+		{
+			"id": 13,
+			"image": "flat.svg",
+			"name": "2-комнатная №116",
+			"square": 15,
+			"floor": 15,
+			"room": 2,
+			"price": 2340000
+		},
+		{
+			"id": 14,
+			"image": "flat.svg",
+			"name": "2-комнатная №117",
+			"square": 89,
+			"floor": 16,
+			"room": 2,
+			"price": 6780000
+		},
+		{
+			"id": 15,
+			"image": "flat.svg",
+			"name": "1-комнатная №118",
+			"square": 11,
+			"floor": 17,
+			"room": 1,
+			"price": 6002350
+		},
+		{
+			"id": 16,
+			"image": "flat.svg",
+			"name": "1-комнатная №119",
+			"square": 34,
+			"floor": 2,
+			"room": 1,
+			"price": 1000000
+		},
+		{
+			"id": 17,
+			"image": "flat.svg",
+			"name": "4-комнатная №120",
+			"square": 53.1,
+			"floor": 4,
+			"room": 4,
+			"price": 8000000
+		},
+		{
+			"id": 18,
+			"image": "flat.svg",
+			"name": "1-комнатная №121",
+			"square": 123.1,
+			"floor": 6,
+			"room": 1,
+			"price": 5000000
+		},
+		{
+			"id": 19,
+			"image": "flat.svg",
+			"name": "3-комнатная №122",
+			"square": 13.8,
+			"floor": 2,
+			"room": 3,
+			"price": 1000000
+		},
+		{
+			"id": 20,
+			"image": "flat.svg",
+			"name": "1-комнатная №123",
+			"square": 53.1,
+			"floor": 3,
+			"room": 1,
+			"price": 5000000
+		},
+		{
+			"id": 21,
+			"image": "flat.svg",
+			"name": "2-комнатная №124",
+			"square": 33.1,
+			"floor": 3,
+			"room": 2,
+			"price": 6600000
+		},
+		{
+			"id": 22,
+			"image": "flat.svg",
+			"name": "4-комнатная №125",
+			"square": 23.1,
+			"floor": 1,
+			"room": 4,
+			"price": 7000000
+		},
+		{
+			"id": 23,
+			"image": "flat.svg",
+			"name": "3-комнатная №126",
+			"square": 59.1,
+			"floor": 8,
+			"room": 3,
+			"price": 7300000
+		},
+		{
+			"id": 24,
+			"image": "flat.svg",
+			"name": "1-комнатная №127",
+			"square": 85,
+			"floor": 6,
+			"room": 1,
+			"price": 2100000
+		},
+		{
+			"id": 25,
+			"image": "flat.svg",
+			"name": "2-комнатная №128",
+			"square": 77,
+			"floor": 5,
+			"room": 2,
+			"price": 2200000
+		},
+		{
+			"id": 26,
+			"image": "flat.svg",
+			"name": "3-комнатная №129",
+			"square": 67.7,
+			"floor": 5,
+			"room": 3,
+			"price": 1200000
+		},
+		{
+			"id": 27,
+			"image": "flat.svg",
+			"name": "1-комнатная №130",
+			"square": 69.9,
+			"floor": 13,
+			"room": 1,
+			"price": 7500000
+		}
+	],
+	"qtyRooms": [
+		1,
+		2,
+		3,
+		4
+	],
+	"minPrice": 1000000,
+	"maxPrice": 11000000,
+	"minSquare": 11,
+	"maxSquare": 124,
+	"totalFloors": 17
 }

@@ -1,49 +1,58 @@
-@import 'fonts';
-@import 'variables';
-@import 'animations';
-
-@import 'pages/home';
-
-@import 'components/card';
-@import 'components/filter-card';
+@import "fonts";
+@import "variables";
+@import "animations";
 
 * {
-  box-sizing: border-box;
-  outline: none;
+    box-sizing: border-box;
+    outline: none;
 }
 
 body {
-  font-family: 'PT Root UI';
-  font-weight: normal;
-  font-style: normal;
-  color: $black;
-  padding: 0;
-  margin: 0;
+    font-family: $brand-font;
+    font-weight: normal;
+    font-style: normal;
+    color: $black;
+    padding: 0;
+    margin: 0;
 }
 
 h1 {
-  font-weight: bold;
-  font-size: 54px;
-  line-height: 55px;
-  margin-top: 0;
-  margin-bottom: 48px;
+    font-weight: bold;
+    font-size: 54px;
+    line-height: 55px;
+    margin-top: 0;
+    margin-bottom: 48px;
+}
+
+.page-wrapper {
+    padding-top: 96px;
+    padding-bottom: 96px;
+
+    @media screen and (max-width: 1280px) {
+        padding-top: 48px;
+        padding-bottom: 48px;
+    }
 }
 
 .container {
-  width: 100%;
-  max-width: 1440px;
-  margin: 0 auto;
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
 }
 
 .desktop-hide {
-  visibility: hidden;
+    visibility: hidden;
 }
 
-@media screen and (max-width: 960px) {
-  h1 {
-    margin-bottom: 31px;
-  }
-  .desktop-hide {
-    visibility: visible;  
-  }
+[v-cloak] {
+    display: none;
+}
+
+@media screen and (max-width: 1280px) {
+    h1 {
+        margin-bottom: 31px;
+    }
+    .desktop-hide {
+        visibility: visible;
+    }
 }

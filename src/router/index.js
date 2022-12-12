@@ -5,20 +5,20 @@ import Home from '@/views/Home';
 Vue.use(VueRouter);
 
 const routes = [
-  {
-    path: '/',
-    name: 'Home',
-    component: Home,
-  },
-  {
-    path: '*',
-    redirect: '/',
-  },
+    {
+        path: '/',
+        name: 'Home',
+        component: Home,
+    },
+    {
+        path: '*',
+        redirect: '/',
+    },
 ];
 
 const router = new VueRouter({
-  mode: 'history',
-  routes,
+    mode: 'history',
+    routes,
 });
 
 export default router;
